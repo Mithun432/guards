@@ -1,0 +1,16 @@
+.unord li a{
+    text-decoration:none;
+}
+.unord{
+    display: flex;
+    position: sticky;
+    margin: auto;
+    padding: 10px;
+    background-color: aqua;
+}
+.lst{
+padding: 10px;
+}
+li{
+    list-style-type: none;
+}

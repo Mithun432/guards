@@ -1,0 +1,23 @@
+.container 
+{
+background-color: aquamarine;
+width: 35%;
+margin: auto;
+margin-top: 14%;
+display: flex;
+justify-content: center;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: 50px;
+}
+.inner{
+    padding: 20px;
+}
+.inner input{
+    font-size: large;
+}
+.inner button{
+    font-size: large;
+}
